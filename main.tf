@@ -1,4 +1,1 @@
-resource "random_pet" "server" {
-
-}
-
+resource "random_pet" "server" {}
