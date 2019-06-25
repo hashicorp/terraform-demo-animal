@@ -1,3 +1,3 @@
 output "animal" {
-  value = "${random_pet.server.id}"
+  value = random_pet.server.id
 }
