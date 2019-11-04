@@ -1,5 +1,5 @@
 resource "random_pet" "server" {
-  count = 1
+  count = 2
 }
 
 
