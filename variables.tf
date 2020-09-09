@@ -6,5 +6,5 @@ variable "some_structure" {
   type = object({
     name1 = string
     name2 = string
-  )}
+  })
 }
