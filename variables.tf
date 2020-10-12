@@ -22,5 +22,10 @@ variable "some_structure" {
     name13 = string
     name14 = string
     name15 = string
+    name16 = string
+    name17 = string
+    name18 = string
+    name19 = string
+    name20 = string
   })
 }
